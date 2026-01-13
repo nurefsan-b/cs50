@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: sorted50000.txt takes 1.4 seconds,reversed one takes 6.2 seconds
+
+sort2 uses: Merge Sort
+
+How do you know?: sorted50000.txt takes 1.18 seconds,reversed one takes 1.5 seconds
+
+sort3 uses: Selection Sort
+
+How do you know?: sorted50000.txt takes 3.79 seconds,reversed one takes 3.69 seconds

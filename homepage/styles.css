@@ -1,0 +1,35 @@
+body{
+    background-color:#121212;
+    color:#e0e0e0;
+    font-family:'Courier New',Courier,monospace;
+}
+
+.navbar{
+    border-bottom:2px solid #00ff41;
+}
+
+h1,h2,h3{
+    color:#00ff41;
+    text-shadow: 0px 0px 5px #003b00;
+}
+
+.btn-custom{
+    background-color:#00ff41;
+    color:#000;
+    font-weight:bold;
+    border:none;
+}
+
+.btn-custom:hover{
+    background-color:#00cc33;
+    color:#fff;
+}
+
+#result-area{
+    background-color:#000;
+    border:1px solid #00ff41;
+    padding:15px;
+    margin-top:20px;
+    font-size:1.2rem;
+    min-height:50px;
+}
